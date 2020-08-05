@@ -1,3 +1,3 @@
 public void test(){
-	system.out.print("Hello World!");
+	system.out.print("No!");
 }
